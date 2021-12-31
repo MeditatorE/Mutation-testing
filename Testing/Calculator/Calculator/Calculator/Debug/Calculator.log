@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+C:\Users\戴凡淞\Desktop\calc\Calculator\func_define.h(166,15): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\戴凡淞\Desktop\calc\Calculator\func_define.h(177,16): warning C4244: “*=”: 从“long double”转换到“__int64”，可能丢失数据
+C:\Users\戴凡淞\Desktop\calc\Calculator\func_define.h(181,11): warning C4244: “return”: 从“__int64”转换到“long double”，可能丢失数据
+C:\Users\戴凡淞\Desktop\calc\Calculator\Digit.h(97): warning C4715: “calculate”: 不是所有的控件路径都返回值
+C:\Users\戴凡淞\Desktop\calc\Calculator\Digit.h(78): warning C4715: “comper”: 不是所有的控件路径都返回值
+C:\Users\戴凡淞\Desktop\calc\Calculator\Digit.h(161): warning C4715: “string_temp_dispose”: 不是所有的控件路径都返回值
+C:\Users\戴凡淞\Desktop\calc\Calculator\function.h(39): warning C4715: “function_dispose”: 不是所有的控件路径都返回值
+C:\Users\戴凡淞\Desktop\calc\Calculator\Calculator.cpp(107): warning C4715: “look_find”: 不是所有的控件路径都返回值
+  Calculator.vcxproj -> C:\Users\戴凡淞\Desktop\calc\Calculator\Calculator\Debug\Calculator.exe
