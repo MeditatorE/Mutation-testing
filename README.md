@@ -41,5 +41,6 @@ Test Cases
                      return atan(count[0]); return SINT;
               } 
        }
-
+## Result
+Please see the file [**Matrix.txt**](https://github.com/nefuddos/Calculater)
    
