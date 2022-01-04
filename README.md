@@ -65,3 +65,9 @@ Please see the file [**Matrix.txt**](https://github.com/MeditatorE/Mutation-test
        18         var(27,36,61,21,93,77)
        19         stdevp(27,36,61,21,93,77)
 The first column is the serial number of the mutant, and the following is the test case
+## How to start
+Clone this repo
+       git clone https://github.com/jiechen2358/FaceAging-by-cycleGAN.git
+       cd FaceAging-by-cycleGAN
+You need to modify the path in h in the file test.sh and the mutant file calculater.cpp, and then
+       sh test.sh
