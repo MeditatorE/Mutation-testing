@@ -44,24 +44,11 @@ Test Cases
 ## Result
 Please see the file [**Matrix.txt**](https://github.com/nefuddos/Calculater)
 
-0          cos(30)
-1          sin(60)               ln(403.43)
-2          cos(30)
-3          tan(45)               sinh(0.5)                   log10(1000000000)
-4          tan(45)               sinh(0.5)
-5          arcsin(0.5)
-6          arccos(0.707)
-7          arccos(0.707)         avg(27,36,61,21,93,77)      var(27,36,61,21,93,77)     varp(27,36,61,21,93,77)      stdev(27,36,61,21,93,77)     stdevp(27,36,61,21,93,77)
-8          arccos(0.707)         arctan(1)                   fact(7)
-9          arctan(1)
-10         cosh(0.3)             exp(4)
-11         ln(403.43)            yroot(125,5)
-12         sqrt(3136)
-13         pow(7,4)              mod(76,13)
-14         yroot(125,5)          avg(27,36,61,21,93,77)      var(27,36,61,21,93,77)     varp(27,36,61,21,93,77)      stdev(27,36,61,21,93,77)     stdevp(27,36,61,21,93,77)
-15         yroot(125,5)
-16         sum(27,36,61,21,93,77)
-17         sum(27,36,61,21,93,77)
-18         var(27,36,61,21,93,77)
-19         stdevp(27,36,61,21,93,77)
+       long double ARCTAN(int number,long double count[],int len) 
+       {
+              if(function_array[number].std_number!=len)//if(function_array[number].std_nu mber==len)
+              {
+                     return atan(count[0]); return SINT;
+              } 
+       }
    
