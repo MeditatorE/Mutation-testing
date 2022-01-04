@@ -25,8 +25,11 @@ The running interface of this project
 Test Cases
 
 ## Mutant example
-       long double ARCTAN(int number,long double count[],int len) {
-       if(function_array[number].std_number==len) {
-       return atan(count[0]); return SINT;
-       } }
+       long double ARCTAN(int number,long double count[],int len) 
+       {
+              if(function_array[number].std_number==len)
+              {
+                     return atan(count[0]); return SINT;
+              } 
+       }
    
