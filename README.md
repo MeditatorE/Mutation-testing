@@ -76,5 +76,5 @@ The first column is the serial number of the mutant, and the following is the te
        sh test.sh
        
 ## Conclusion
-By analyzing the mutation matrix in Figure 9, we found that the test cases we used in Figure 6 can completely cover all the functional functions in this project, which means that our test cases cover the functional functions in this project. Can reach 100%. But our experiment may have a shortcoming. For other non-functional functions in this project, our test cases may not be able to accurately detect the location of mutations. Even if the mutation of non-functional functions does not affect the normal operation of this project, our test cases may not recognize this mutant. Fortunately, such mutations have almost no effect on the results of this project, so we can draw a conclusion that our test cases can perfectly kill all mutants that may have a negative impact on the project.
+By analyzing the mutation matrix in Figure 9, we found that the test cases we used in Figure 6 can completely cover all the functional functions in this project, which means that our test cases cover the functional functions in this project. Can reach 100%. Regarding other findings, we have included our findings and conclusions in our [**report**](https://github.com/MeditatorE/Mutation-testing/blob/main/Calculator/Calculator.cpp).
 
