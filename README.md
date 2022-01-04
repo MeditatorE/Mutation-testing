@@ -67,8 +67,10 @@ Please see the file [**Matrix.txt**](https://github.com/MeditatorE/Mutation-test
 The first column is the serial number of the mutant, and the following is the test case
 ## How to start
 1. Clone this repo
+
        git clone https://github.com/MeditatorE/Mutation-testing
        cd Mutation-testing
        
 2. You need to modify the path in h in the file test.sh and the mutant file calculater.cpp, and then
+
        sh test.sh
