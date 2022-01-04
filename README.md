@@ -3,25 +3,25 @@ This project for CS250  testing project
 ## Intriduction
 This project is the final project of CS250. Its function is to perform mutation detection. We generated 40 mutants on a scientific calculator project [**Calculator-master**](https://github.com/nefuddos/Calculater) on GitHub by using [**Milu**](https://github.com/yuejia/Milu), and then randomly selected 20 of them for mutation testing.
 ## File composition
-### Calculater-master
+[**Calculator-master**](https://github.com/MeditatorE/Mutation-testing/blob/main/Calculator-master)
 Original project
 
-### Calculator
+[**Calculator**](https://github.com/MeditatorE/Mutation-testing/blob/main/Calculator)
 The project after our modification is used to automatically read the test case
 
-### mutation
+[**mutation**](https://github.com/MeditatorE/Mutation-testing/blob/main/mutation)
 mutant
 
-### find_diff.cpp
+[**find_diff.cpp**](https://github.com/MeditatorE/Mutation-testing/blob/main/find_diff.cpp)
 Used to automatically detect output
 
-### matrix.txt
+[**matrix.txt**](https://github.com/MeditatorE/Mutation-testing/blob/main/matrix.txt)
 Used to save mutation matrix
 
-### test.sh
+[**test.sh**](https://github.com/MeditatorE/Mutation-testing/blob/main/test.sh)
 The running interface of this project
 
-### test.txt
+[**test.txt**](https://github.com/MeditatorE/Mutation-testing/blob/main/test.txt)
 Test Cases
 
 ## Mutant example
@@ -71,6 +71,6 @@ The first column is the serial number of the mutant, and the following is the te
        git clone https://github.com/MeditatorE/Mutation-testing
        cd Mutation-testing
        
-2. You need to modify the path in the file test.sh and the every mutant file calculater.cpp, and then
+2. You need to modify the path in the file [**test.txt**](https://github.com/MeditatorE/Mutation-testing/blob/main/test.sh) and the every mutant file [**calculater.cpp**], and then
 
        sh test.sh
