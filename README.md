@@ -71,7 +71,7 @@ The first column is the serial number of the mutant, and the following is the te
        git clone https://github.com/MeditatorE/Mutation-testing
        cd Mutation-testing
        
-2. You need to modify the path in the file [**test.txt**](https://github.com/MeditatorE/Mutation-testing/blob/main/test.sh) and the every mutant file [**calculater.cpp**], and then
+2. You need to modify the path in the file [**test.txt**](https://github.com/MeditatorE/Mutation-testing/blob/main/test.sh) and the every mutant file [**calculater.cpp**](https://github.com/MeditatorE/Mutation-testing/blob/main/Calculator/Calculator.cpp), and then
 
        sh test.sh
        
